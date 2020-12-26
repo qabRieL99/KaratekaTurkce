@@ -1,0 +1,104 @@
+[TUT_Attack]
+Title=[xbox_X]/[xbox_Y] SALDIR!
+Message=
+
+[TUT_AttackLong]
+Title=SALDIR! [xbox_X] YUMRUK / [xbox_Y] TEKME
+Message=
+
+[TUT_Block]
+Title=[xbox_B] ENGELLE!
+Message=
+
+[TUT_ApproachGuard]
+Title=[xbox_LS] KORUMAYA YAKLAS
+Message=
+
+[TUT_BlockThenAttack]
+Title=ENGELLE [xbox_B], ARDINDAN SALDIR [xbox_X]/[xbox_Y]
+Message=
+
+[TUT_GetReady]
+Title=HAZIR OL
+Message=
+
+[TUT_StayAlive]
+Title=HAYATTA KALMAK IÇIN DAYAK YEMEMEYE ÇALIS!
+Message=
+
+[TUT_ChiCloud]
+Title=MARIKO ÇIÇEKLERINI TOPLA [xbox_Y] VE GÜÇ KAZAN
+Message=
+
+[TUT_MultipleAttacks]
+Title=BIRDEN FAZLA SALDIRILARA DIKKAT ET!
+Message=
+
+[TUT_BlockAllAttacks]
+Title=BÜTÜN SALDIRILARI ENGELLE
+Message=
+
+[TUT_BlockNow]
+Title=[xbox_B] SIMDI ENGELLE!
+Message=
+
+[TUT_BlockAgain]
+Title=[xbox_B] YINE ENGELLE!
+Message=
+
+[TUT_PrepNextAttack]
+Title=BIR SONRAKI SALDIRIYA HAZIRLAN
+Message=
+
+[TUT_BuildChiAttack]
+Title=CHI HAZIRLAMAK IÇIN IYI DÖVÜS
+Message=
+
+[TUT_ChiFull]
+Title=CHI HAZIR! DÜSMANI SERSEMLETMEK IÇIN [xbox_A]
+Message=
+
+[TUT_EnemyStunnedAttack]
+Title=DUSMAN SERSEMLEDI! [xbox_X] / [xbox_Y] ÖZEL SALDIRILAR
+Message=
+
+
+[TUT_ReBuildChiAttack]
+Title=ÖZEL SALDIRILAR IÇIN CHI HAZIRLA
+Message=
+
+[TUT_B2RUseChi]
+Title=CHI'YI KULLAN! [xbox_A] ÖZEL SALDIRI
+Message=
+
+[TUT_Skip]
+Title=GEÇMEK IÇIN START'A BAS
+Message=
+
+[TUT_Skip_PC]
+Title=GEÇMEK IÇIN ENTER'A BAS
+Message=
+
+[TUT_PrepToBlock]
+Title=ENGELLEMEYE HAZIR OL [xbox_B]
+Message=
+
+[TUT_BlockedTooEarly]
+Title=ERKEN ENGELLEDIN! 
+Message=
+
+[HAWK_HawkAttack]
+Title=SAHIN SALDIRISI!!
+Message=
+
+[HAWK_AttackHi]
+Title=SAHIN YUKSEKTEYKEN TEKME AT! [xbox_Y]
+Message=
+
+[HAWK_AttackLo]
+Title=SAHIN ALÇAKTAYKEN YUMRUK AT! [xbox_X]
+Message=
+
+[HAWK_DefendYourself]
+Title=KENDINI KORU! ENGELLE, ARDINDAN SALDIR!
+Message=

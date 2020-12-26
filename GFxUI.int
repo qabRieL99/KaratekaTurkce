@@ -1,0 +1,54 @@
+[FontLib]
+FontLib=GFxUI_FontsINT.EmbeddedFonts_INT
+
+[Fonts]
+Font1=Gotham Black
+Font2=Pluto Heavy
+
+[FontLibPS3]
+FontLib=GFxUI_FontsINT.EmbeddedFonts_INT
+
+[FontsPS3]
+Font1=Gotham Black
+Font2=Pluto Heavy
+
+[FontLibXenon]
+FontLib=GFxUI_FontsINT.EmbeddedFonts_INT
+
+[FontsXenon]
+Font1=Gotham Black
+Font2=Pluto Heavy
+
+[IME]
+MoviePath=GFxUI_IME.IME
+
+[Translation]
+Enable=1
+
+[Global]
+Yes=Yes
+No=No
+
+//These map to the specific button glyph in the button font.
+[ControlsUI]
+XboxTypeS_LeftX=Left X
+XboxTypeS_LeftY=Left Y
+XboxTypeS_RightX=Right X
+XboxTypeS_RightY=Right Y
+
+XboxTypeS_LeftThumbstick=XboxTypeS_LeftThumbstick
+XboxTypeS_RightThumbstick=XboxTypeS_RightThumbstick
+XboxTypeS_Back=XboxTypeS_Back
+XboxTypeS_Start=XboxTypeS_Start
+XboxTypeS_A=XboxTypeS_A
+XboxTypeS_B=XboxTypeS_B
+XboxTypeS_X=XboxTypeS_X
+XboxTypeS_Y=XboxTypeS_Y
+XboxTypeS_LeftShoulder=XboxTypeS_LeftShoulder
+XboxTypeS_RightShoulder=XboxTypeS_RightShoulder
+XboxTypeS_LeftTrigger=XboxTypeS_LeftTrigger
+XboxTypeS_RightTrigger=XboxTypeS_RightTrigger
+XboxTypeS_DPad_Up=XboxTypeS_DPad_Up
+XboxTypeS_DPad_Down=XboxTypeS_DPad_Down
+XboxTypeS_DPad_Right=XboxTypeS_DPad_Right
+XboxTypeS_DPad_Left=XboxTypeS_DPad_Left

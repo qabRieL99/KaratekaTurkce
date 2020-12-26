@@ -1,0 +1,14 @@
+[Scoring]
+Blank=
+Victory=Zafer!
+PerfectVictory=Mükemmel Dövüstün!
+SuitorBonusHero=Gerçek Ask Bonusu
+SuitorBonusScholar=Kesis Bonusu
+SuitorBonusBrute=Yaban Bonusu
+CheckpointDefault=Kontrol Noktasi Bonusu
+BossDefeat=Usta Bozguna Ugratildi!
+HawkFinalDefeat=Sahin Bozguna Ugratildi!
+CkptRopeBridge=Halat Köprü
+CkptGarden=Saray Bahçesi
+CkptGardenStairs=Saray Yokusu
+CkptPalaceGate=Saray Kapisi

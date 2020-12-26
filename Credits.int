@@ -1,0 +1,214 @@
+[General]
+Title=Yapimcilar
+Back=GERi
+BackPC=[esc] GERi
+
+[Titles]
+Liquid_Entertainment=Liquid Entertainment
+Jordan=Bir Jordan Mechner Oyunu
+KARATEKA=KARATEKA
+A_Game_By=Türkçe Çeviri: Mehmet Ali UMAÇ
+Creative_Director=Writer and Creative Director
+Developer=Developer
+Music_Composed_by=Music Composed by
+Main_Composer=Christopher Tin
+Character_Design_by=Character Design by
+Character_Designer=Jeff Matsuda
+Executive_Producers=Executive Producers
+EP1=John August
+EP2=Jordan Mechner
+Ep3=Holly Newman (Liquid)
+EP4=Dave Taylor
+Liquid_Team=Liquid Team
+Studio_Administration=Studio Administration
+Additional_Development=Additional Development
+Additional_Development_Services=Additional Development Services
+Additional_Thanks=Additional Thanks
+Special_Thanks=Special Thanks
+
+[LiquidPositions]
+Creative_Director=Creative Director
+President=President
+Chief_Executive_Officer=Chief Executive Officer
+Lead_Artist=Lead Artist, Animator
+Lead_Artist2=Animator
+Artist1=3D Artist
+Artist1Line2=UI Artist
+Animator1=Animator, Technical Artist
+Producer=Producer
+Sound_Designer=Sound Designer, Producer 
+Artist2=UI Artist
+Game_Tester=Additional Music Composer, Game Tester
+Additional_Voices=Additional Voices
+IT=IT Director 
+Concept_Artist1=Concept Artist
+Programmer1=Programmer
+Principle_Programmer=Principal Programmer
+Artist3=Title and UI Design
+Programmer2=Programmer
+Artist4=Technical Artist
+Designer=Designer
+Audio_Director=Audio Director, Producer
+Artist5=3D Artist
+Concept_Artist2=Concept Artist, UI Artist
+Additional_Cinematics_Editing2=Additional Cinematics Editing
+Animator2=Animator
+Music_Department=Music Department
+Music_By=Music by Christopher Tin
+Original_Karateka_Themes_by=Original Karateka Themes by
+Jordans_Dad=Francis Mechner
+Musicians=Musicians
+Musician1=Shakuhachi
+Musician2=Taiko
+Musician3=Kotsuzumi
+Musician4=Shamisen Arrangements
+Philharmonic=City of Prague Philharmonic
+Contracted_By=Contracted by James Fitzpatrick, Tadlow Music
+Taiko1=Taiko Recorded and Produced by Shoji Kameda 
+Taiko2=Sample Editor Aaron Purvis
+Voice_Actors=Voice Actors
+actor1=Mariko
+actor2=True Love
+actor3=Monk
+actor4=Brute
+Additional_Support=Additional Support
+Additional_Programming=Additional Programming
+Additional_Human_Resources_Support=Additional Human Resources
+Additional_Lighting_Support=Additional Lighting Support
+Additional_IT_Support=Additional IT
+Additional_Design_Support=Additional Design
+Additional_Art=Additional Art
+Lighting=Lighting
+Additional_Design=Additional Design
+Art_Consultant=Art Consultant
+Special_Thanks=Special Thanks
+Special_Thanks2=To the family and friends
+Special_Thanks3=of Liquid for their unending support
+Special_Thanks4=and
+Special_Thanks5=Jonathan Blow
+Special_Thanks6=Keith Boesky
+Special_Thanks7=Doug Carlston
+Special_Thanks8=Robert A. Cervoni
+Special_Thanks9=Robert Cook
+Special_Thanks10=Johanna & Marvin Cooper
+Special_Thanks11=Lauren Cooper & William Green
+Special_Thanks12=Raphael Kryszek
+Special_Thanks13=Adam Lisagor
+Special_Thanks14=David Mechner
+Special_Thanks15=Emily Mechner & Chris Stomberg
+Special_Thanks16=Francis Mechner
+Special_Thanks17=Vicki Mechner & Wayne Titerence
+Special_Thanks18=Earl Newton
+Special_Thanks19=Barry Small
+Special_Thanks20=Tiffany Spencer
+Special_Thanks21=Mike Su
+Special_Thanks22=Stuart Wilson
+Special_Thanks23=Geoff Trebs
+Cinematic_Post_Processing=Cinematic Post FX
+Additional_Cinematic_Post_Processing1=Stuart Wilson
+Additional_Cinematic_Post_Processing2=Raphael Kryszek
+Additional_Cinematic_Post_Processing3=Darren Fanton
+Executive_Producer=Executive Producer
+Character_Modeling=Character Modeling
+EP1=John August
+EP2=Jordan Mechner
+Ep3=Holly Newman (Liquid)
+EP4=Dave Taylor
+Creative=Creative Director, Writer
+Woodblock_Art=Woodblock Art
+Assistant_to_John_August=Assistant to John August
+Assitant_to_Jordan_Mechner=Assitant to Jordan Mechner
+Director_of_Production=Director of Production, GTL Media, Inc
+Project_Manager=Project Manager, GTL Media, Inc
+GTL_Media=GTL Media, Inc
+KT_Legal=[_C_]2012 Waterwheel Licensing LLC. All Rights Reserved.
+KT_Legal_2=Karateka[_R_] is a registered trademark of
+KT_Legal_3=Waterwheel Licensing LLC.
+Liquid_Legal=LIQUID[_R_] is a registered trademark of
+Liquid_Legal_2=Liquid Entertainment, LLC.
+Dev_Partner_Line1=Uses Bink Video. Copyright [_C_] 1997-2012 by 
+Dev_Partner_Line2=RAD Game Tools, Inc.
+Dev_Partner_Line3=Uses Scaleform GFx [_C_] 2012 Scaleform Corporation. 
+Dev_Partner_Line4=All rights reserved.
+Dev_Partner_Line5=FMOD Ex Sound System provided by 
+Dev_Partner_Line6=Firelight Technologies.
+Dev_Partner_Line7=Unreal[_R_] is a registered trademark of Epic Games, Inc.
+Dev_Partner_Line8=Unreal[_R_] Engine, Copyright 1998 - 2012, Epic Games, Inc. 
+Dev_Partner_Line9=All rights reserved.
+Dev_Partner_Line10=All other copyrights or trademarks are the property of their respective owners
+Dev_Partner_Line11=and are being used under license. Unauthorized copying, adaptation, rental,
+Dev_Partner_Line12=lending, re-sale, arcade use, charging for use, broadcast, cable transmission,
+Dev_Partner_Line13=public performance, distribution or extraction of this product or any trademark 
+Dev_Partner_Line14=or copyright work that forms part of this product is prohibited.
+
+
+
+
+
+
+
+
+[Names]
+Creative_Director=Jordan Mechner
+President=Ed Del Castillo
+Executive_Producer1=Holly Newman
+Lead_Artist=Richard Arroyo
+Artist1=Jennifer Bouris
+Animator1=Ralph Bull
+Producer=Scott Butler
+Sound_Designer=Will Callahan    
+Artist2=William H. Carleton
+Game_Tester=Javier Kadry
+Additional_Voice=Arthur Lee
+IT=Daniel Liebster
+Concept_Artist1=Jeff Matsuda
+Programmer1=Jamien McBride
+Principle_Programmer=Scott Milner
+Assitant_to_Jordan_Mechner=Pano Mintiloglitis
+Artist3=Ryan Nelson
+Programmer2=Benjamin Newell
+Artist4=Josh Olson
+Designer=Ryan Palacio
+Audio_Director=Judge Rice
+Artist5=NaRee Song
+Concept_Artist2=Yumiko Sonoyama
+Animator2=Ernie Urzua
+Music_Composer=Christopher Tin
+Musician1=Sandro Friedrich
+Musician2=Shoji Kameda
+Musician3=Kenny Endo
+Musician4=Aaron Purvis
+actor1=Tara Platt
+actor2=Yuri Lowenthal
+actor3=Liam O'Brien
+actor4=Dave Mitchell
+Additional_Programming_Support1=Matt Altman
+Additional_Programming_Support3=Joseph Cherlin
+Additional_Programming_Support4=Ray Lukes
+Additional_Programming_Support5=Nathaniel Newell
+Lighting=Mark Ishak
+Additional_Design=Andrew Rubino
+Additional_Art=Bennie Terry III
+Additional_Cinematic_Post_Processing1=Stuart Wilson
+Additional_Cinematic_Post_Processing2=Raphael Kryszek
+Additional_Cinematic_Post_Processing3=Darren Fanton
+Executive_Producer2=Dave Taylor
+Adia_Digital=Adia Digital
+Jordan_Mechner=Jordan Mechner
+Proof_of_Concept=Darren Fanton,
+Proof_of_Concept2=Proof of Concept
+Additional_Cinematics_Editing=Earl Newton
+Wood_Block=Jeff Matsuda,
+Wood_Block2=Hakjoon Kang
+Assistant_to_JA=Stuart Friedel
+Additional_Design=Andrew Rubino
+Director_of_Production=William Farrell
+Project_Manager=Ryan Nulty
+
+
+
+
+
+
+
+

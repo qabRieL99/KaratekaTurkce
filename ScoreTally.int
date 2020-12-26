@@ -1,0 +1,36 @@
+[General]
+HighScore=YENi YÜKSEK PUAN!
+FinalScore=FiNAL PUANI!
+Accept=Devam Et
+AcceptPC=[space] Devam Et
+
+[Brute]
+Brute_1=Mariko, Yaban'in cesaretine minnettar,
+Brute_2=ancak Yaban tam olarak
+Brute_3=onun bekledigi kisi degildi.
+Brute_4=
+Brute_5=Karateka'nin ustasi olmak 
+Brute_6=için sonraki adimlari dene.
+Brute_7=Mariko'yu daha da mutlu edecek
+Brute_8=bir talip ile kurtar.
+
+[Monk]
+Monk_1=Tebrikler!
+Monk_2=Giderek ustalasiyorsun.
+Monk_3=Mariko, Kesis'in huzurlu
+Monk_4=ruhuna minnettar.
+Monk_5=Sirada, bir Karateka'nin 
+Monk_6=en büyük mücadelesi var...
+Monk_7=Mariko'yu Gerçek Askiyla 
+Monk_8=kurtararak hayallerini gerçeklestir.
+
+[TrueLove]
+True_1=Sayende, Mariko'nun en büyük 
+True_2=hayali gerçek oldu
+True_3=Gerçek Aski onu kurtardi!
+True_4=Artik bir Karateka ustasisin
+True_5=
+True_6=Tabii, bir Karateka'nin nihai
+True_7=hedefi kusursuzluktur.
+True_8=Türkçe Çeviri: Mehmet Ali UMAÇ
+

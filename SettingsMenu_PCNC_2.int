@@ -1,0 +1,28 @@
+[General]
+Title=Ayarlar
+SoundVolume=Ses Yüksekligi
+MusicVolume=Müzik Sesi Yüksekligi
+Gamma=Kontrast
+Vibration=Titresim
+SettingOn=Açik
+SettingOff=Kapali
+On=Açik
+Off=Kapali
+SelectStorage=Bellek Seç
+Back=GERi
+Defaults=VARSAYILAN
+Select=SEÇ
+
+[PC]
+BackPC=[esc] GERi
+DefaultsPC=[y] VARSAYILAN
+SelectPC=[enter] SEÇ
+GammaPC=Parlaklik
+Resolution=Çözünürlük
+FullScreen=Tam Ekran
+ResolutionWarningTitle=Çözünürlük degisti.
+ResolutionWarning=Su anki ayarlar kalsin mi?
+ResolutionYes=[enter]Evet
+ResolutionNo=[esc]Hayir
+ButtonYes=[xbox_A]Evet
+ButtonNo=[xbox_B]Hayir

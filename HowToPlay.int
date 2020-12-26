@@ -1,0 +1,23 @@
+[General]
+Title=Tavsiyeler & Öneriler
+Back=GERi
+Left_Stick=Ileri Git
+Button_A=Geç
+Button_B=Engelle
+Button_X=Yumruk
+Button_Y=Tekme / Diz
+Button_Start=Duraklat
+SubTitle1=Mariko'yu, kötü savas beyi Akuma'nin sarayindan kurtar.
+SubTitle2=Dövüs Tavsiyeleri:
+Tip1=Tusa sürekli basma. Düsman korunmasiz kalinca saldir. (saldirisini engelledikten sonra).
+Tip2=Düsman saldirilarini ritimleri dinleyerek engelle, her bir saldiri için [xbox_B] ile engel koy. [xbox_B] tusuna basili tutma.  
+Tip3=Düsmanin kaç defa saldiracagini birak sana müzik söylesin.
+Tip4=Özel chi saldirilarini [xbox_A] en çok ise yarayacak anlara sakla. 
+Tip5=Çevrede parlayan mavi bir çiçek gördügünde [xbox_Y] tusuna basarak gücünü tazele.
+[PC]
+BackPC=[esc] GERi
+Tip1_PC=Tusa sürekli basma. Düsman korunmasiz kalinca saldir. (saldirisini engelledikten sonra).
+Tip2_PC=Düsman saldirilarini ritimleri dinleyerek engelle, her bir saldiri için [d] ile engel koy. [d]'ye basili tutma.
+Tip3_PC=Düsmanin kaç defa saldiracagini birak sana müzik söylesin.
+Tip4_PC=Özel chi saldirilarini [space] en çok ise yarayacak anlara sakla. 
+Tip5_PC=Çevrede parlayan mavi bir çiçek gördügünde [w] tusuna basarak gücünü tazele.

@@ -1,0 +1,116 @@
+[SaveConfirm]
+Title=Kayidi onayla
+Message=Kayit dosyasinin üzerine yazmak istiyor musun?
+Yes=[enter] Evet
+No=[esc] Hayir
+
+[SaveIndicatorWarning]
+Title=Kayit Göstergesi
+Text=Bu oyunda belli bölümlere geldigi zaman otomatik olarak kayit edilir. Kayit Göstergesi ekranda gözükürken sistemini kapatma.
+Button=[enter] Devam Et
+
+[HDTVWarning]
+Title=HDTV
+Text=Bu oyun en iyi HDTV 1080i seçeneginde görünür.  Eger gerekliyse HDTV çikisinizi simdi baglayin.
+Button=[enter] Devam Et
+
+[StorageDeviceRemoved]
+Title=Storage Device Removed
+Text=The selected storage device has been removed. Autosaving is now disabled. You must select a storage device to re-enable autosaving. 
+ButtonSelect=[enter] Select Storage Device
+ButtonCancel=[esc] Continue without Saving
+
+[NotifyUIProfileLost]
+Title=Storage Device Removed
+Text=The storage device containing the signed in profile has been removed. Autosaving is now disabled. You must reinsert the storage device to re-enable autosaving.
+ButtonContinue=[enter] Continue
+
+[NetworkReconnect]
+Title=No Steam Network Connection
+Text=You are not currently connected to the Steam network.  You will not be able to enter your game score to the Leaderboards without a Steam connection.
+ButtonContinue=[enter] Continue
+
+[NotifySaveFileCorrupt]
+Title=Corrupt Save Data
+Text=The selected save data is corrupt, and cannot be used.  If you choose to overwrite, this data will be permanently erased.
+ButtonDelete=[enter] Overwrite
+ButtonSelectDevice=[xbox_X] Select Storage Device
+ButtonCancel=[esc] Cancel loading
+
+[NotifyUIProfileChange]
+Title=Gamer Profile Changed
+Text=A sign-in change occurred. You are now being returned to the title screen.
+ButtonContinue=[enter] Continue
+
+[NotifyOutOfSpace]
+Title=Out of Space
+Text=There is not enough free space to create a new saved game file.
+ButtonContinue=[enter] Continue
+
+[ManualSaveWarning]
+Title=
+Text=Saving content. Please don't turn off your console.
+ButtonContinue=
+
+[LoadGameOverwriteWarning]
+Title=Otomatik Kayit Uyarisi
+Text=Kayitli bir oyun yüklemek su anki ilerlemeni silebilir. Yüklemek istedigine emin misin?
+ButtonContinue=[enter] Devam Et
+ButtonCancel=[esc] Vazgeç
+
+[NewGameOverwriteWarning]
+Title=Otomatik Kayit Uyarisi
+Text=Yeni bir oyuna baslamak su anki ilerlemeni silebilir. Yüklemek istedigine emin misin?
+ButtonContinue=[enter] Devam Et
+ButtonCancel=[esc] Vazgeç
+
+[NewDeviceOverwriteWarning]
+Title=Save Data Overwrite Warning
+Text=The selected storage device contains previous Autosave data.  If you continue, this data will be overwritten at the next Autosave point.
+ButtonOverwrite=[enter] Overwrite
+ButtonSelect=[xbox_X] Select Storage Device
+ButtonContinue=[esc] Continue without saving
+
+[NoFreeSpaceAutoSaveWarning]
+Title=Not Enough Free Space Warning
+Text=The selected storage device does not have enough free space to save data. If you continue, Autosave will be disabled.
+ButtonContinue=[enter] Continue without saving
+ButtonSelect=[xbox_X] Select Storage Device
+
+[NoFreeSpaceManualSaveWarning]
+Title=Not Enough Free Space Warning
+Text=The selected storage device does not have enough free space to create new save data. If you continue, you will not be able to create new save data.
+ButtonContinue=[enter] Continue
+ButtonSelect=[xbox_X] Select Storage Device
+
+[NoFreeSpaceSaveError]
+Title=Not Enough Free Space Warning
+Text=The selected storage device does not have enough free space to save data. Would you like to select another device?
+ButtonContinue=[enter] Continue without saving
+ButtonSelect=[xbox_X] Select Storage Device
+
+[AutoSave]
+Title=Autosave
+XboxText=This game saves data automatically at certain points. Do not switch off the power while the saving indicator is on screen.
+Ps3Text=This game saves data automatically at certain points. Do not switch off the power when the HDD access indicator is flashing.
+
+[ButtonPrompts]
+Hold=Hold
+
+[DashboardGameInfo]
+Title=Karateka™
+Text=
+
+[ControllerReconnect]
+Title="Controller Disconnected"
+Message="Please reconnect the controller to continue."
+ButtonText=" "
+
+[ControllerReconnect_PS3]
+Title="Wireless Controller Disconnected"
+Message="Please reconnect the wireless controller to continue."
+ButtonText=" "
+
+[SaveOverlap]
+Title="Saving..."
+Message="The title is currently saving. Please Wait."

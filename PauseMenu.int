@@ -1,0 +1,58 @@
+[General]
+Resume=Devam Et
+Quit=Ana Menüye Çik
+Unlock=Oyunu Satin Al
+Exit=Oyundan Çik
+Options=Seçenekler
+Leaderboards=Puan Tablosu
+Achievements=Basarimlar
+Options=Yardim & Seçenekler
+Title=Oyun Duraklatildi
+Select=SEÇ
+Back=GERi
+
+[PC]
+SelectPC=[enter] SEÇ
+BackPC=[esc] GERi
+
+[QuitToFrontEnd]
+Title=Ana Menüye Çikilsin Mi?
+Message=Çikmak istedigine emin misin? Kaydedilmemis herhangi bir ilerleme silinecektir.
+Yes=[xbox_A] Evet
+No=[xbox_B] Vazgeç
+
+[ExitGame]
+Title=Oyundan Çikilsin Mi?
+Message=Çikmak istedigine emin misin? Kaydedilmemis herhangi bir ilerleme silinecektir.
+Yes=[xbox_A] Evet
+No=[xbox_B] Vazgeç
+
+[ExitToArcade]
+Title=Exit To Game Library?
+Message=Are you sure you want to exit to the Game Library? Any unsaved progress will be lost.
+Yes=[xbox_A] Yes
+No=[xbox_B] Cancel
+
+[SurrenderToFrontEnd]
+Title=Teslim Olunsun Mu?
+Message=Eger simdi çikarsan, suanki asigini kaybedeceksin. Asigini kaybetmemek için, çikmadan önce dövüsü tamamla. Çikmak istedigine emin misin?
+Yes=[xbox_A] Evet
+No=[xbox_B] Vazgeç
+
+[SurrenderBrute]
+Title=Mariko Terk Edilsin Mi?
+Message=Eger simdi çikarsan, yeni bir oyundan baslamak zorunda kalacaksin. Asigini kaybetmemek için, çikmadan önce dövüsü tamamla. Çikmak istedigine emin misin?
+Yes=[xbox_A] Evet
+No=[xbox_B] Vazgeç
+
+[TutorialToFrontEnd]
+Title=Ana Menüye Çikilsin Mi?
+Message=Eger simdi çikarsan, yeni bir oyundan baslamak zorunda kalacaksin. Çikmak istedigine emin misin?
+Yes=[xbox_A] Evet
+No=[xbox_B] Vazgeç
+
+[DemoQuitToFrontEnd]
+Title=Ana Menüye Çikilsin Mi?
+Message=Ilerlemeniz kaydedilmeyecek. Kaydetme özelligi için oyunu satin aliniz. 
+Yes=[xbox_A] Evet
+No=[xbox_B] Vazgeç

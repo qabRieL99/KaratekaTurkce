@@ -1,0 +1,29 @@
+[General]
+Title=Puan Tahtasi
+HeaderRank=Rütbe
+HeaderName=Gamertag
+HeaderScore=Puan
+HeaderTime=Süre
+HeaderSuitor=Asik
+HeaderPlayer=Oyuncu
+Scroll=Kaydir
+Sort=SIRALAR
+Back=GERi
+RankTop=EN YÜKSEK PUANLAR
+RankFriends=ARKADASLARIMIN PUANLARI
+RankPlayer=YÜKSEK PUANLI OYUNCU
+ToggleRankTop=YÜKSEK PUANLI OYUNCULARI GÖSTER
+ToggleRankFriends=ARKADASLARIMIN PUANLARINI GÖSTER
+ToggleRankPlayer=OYUNCUNUN PUANINI GÖSTER
+Friends=ARKADASLARI GÖSTER
+CycleStats=BiR SONRAKi LiSTE
+Gamer=GAMER CARD
+ScrollPC=[up/down] KAYDIR
+BackPC=[esc] GERi
+FriendsPC=[enter] ARKADASLARI GÖSTER
+CycleStatsPC=[enter] BiR SONRAKi LiSTE
+Wait=Veri Yükleniyor...
+Error=Loading Leaderboard data failed.  Please make sure you are connected to Xbox LIVE.
+Error_PS3=Loading Rankings data failed.  Please make sure you are connected to the PlayStation®Network.
+Error_PC=Loading Rankings data failed.  Please make sure you are connected to the Steam Network.
+

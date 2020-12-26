@@ -1,0 +1,43 @@
+[MainMenu]
+Continue=DEVAM ET
+NewGame=YENi OYUN
+Leaderboards=PUAN TAHTASI
+Achievements=BASARIMLAR
+Options=YARDIM & SEÇENEKLER
+DLC=OYUNU SATIN AL
+FullGame=OYUN SATIN ALINDI
+Arcade=OYUN KÜTÜPHANESINE GERI DON
+Exit=OYUNDAN ÇIK
+Select=SEÇ
+SelectPC=[enter] SEÇ
+Credits=YAPIMCILAR
+Pressstart=START'A BAS
+Mainmenu=ANA MENÜ
+Debug=BÖLÜM LiSTESi
+
+[Start]
+PressStart=Start'a Bas
+PressEnter=[enter]'a Bas
+
+[General]
+Enter=[enter]
+		
+[ProfileMessageBox]
+Title=Sign In?
+Message=Karateka requires a valid gamer profile to play.  Please select or create a gamer profile to proceed.
+SignInButton=[xbox_A] Sign In
+CancelButton=[xbox_B] No
+
+[DeviceSelectionMessageBox]
+Title=Select Storage Device
+Message=You have not selected a storage device. You will need to select a storage device in order to save game progress. Do you want to select one now?
+DeviceSelectionButton=[xbox_A] Yes
+CancelButton=[xbox_B] No
+
+[TestAutoSaveMessageBox]
+Title=Auto Save Data
+Message=Testing for existing auto-save game data.  Please don't turn off your console.
+
+[TestAutoSaveMessageBox_PS3]
+Title=Auto Save Data
+Message=Testing for existing auto-save game data.  Please do not turn off the PlayStation®3 system.

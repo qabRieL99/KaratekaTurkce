@@ -1,0 +1,100 @@
+[TUT_Attack]
+Title=[pc_ML][KP4]/[pc_MR][KP8] SALDIR!
+Message=
+
+[TUT_AttackLong]
+Title=SALDIR! [pc_ML][KP4] YUMRUK / [pc_MR][KP8] TEKME
+Message=
+
+[TUT_Block]
+Title=[pc_MM][KP6] ENGELLE!
+Message=
+
+[TUT_ApproachGuard]
+Title=[KP7] KORUMAYA YAKLAS
+Message=
+
+[TUT_BlockThenAttack]
+Title=ENGELLE [pc_MM][KP6], ARDINDAN SALDIR [pc_ML][KP4]/[pc_MR][KP8]
+Message=
+
+[TUT_GetReady]
+Title=HAZIR OL
+Message=
+
+[TUT_StayAlive]
+Title=HAYATTA KALMAK IÇIN DAYAK YEMEMEYE ÇALIS!
+Message=
+
+[TUT_ChiCloud]
+Title=MARIKO ÇIÇEKLERINI TOPLA [pc_ML][pc_MR][KP9] VE GÜÇ KAZAN
+Message=
+
+[TUT_MultipleAttacks]
+Title=BIRDEN FAZLA SALDIRILARA DIKKAT ET!
+Message=
+
+[TUT_BlockAllAttacks]
+Title=BÜTÜN SALDIRILARI ENGELLE
+Message=
+
+[TUT_BlockNow]
+Title=[pc_MM][KP6] SIMDI ENGELLE!
+Message=
+
+[TUT_BlockAgain]
+Title=[pc_MM][KP6] YINE ENGELLE!
+Message=
+
+[TUT_PrepNextAttack]
+Title=BIR SONRAKI SALDIRIYA HAZIRLAN
+Message=
+
+[TUT_BuildChiAttack]
+Title=CHI HAZIRLAMAK IÇIN IYI DÖVÜS
+Message=
+
+[TUT_ChiFull]
+Title=CHI HAZIR! DÜSMANI SERSEMLETMEK IÇIN [pc_ML][pc_MR][KP+]
+Message=
+
+[TUT_EnemyStunnedAttack]
+Title=DUSMAN SERSEMLEDI! [pc_ML][KP4] / [pc_MR][KP8] ÖZEL SALDIRILAR
+Message=
+
+
+[TUT_ReBuildChiAttack]
+Title=ÖZEL SALDIRILAR IÇIN CHI HAZIRLA
+Message=
+
+[TUT_B2RUseChi]
+Title=CHI'YI KULLAN! [pc_ML][pc_MR][KP+] ÖZEL SALDIRI
+Message=
+
+[TUT_Skip]
+Title=GEÇMEK IÇIN [esc] TUSUNA BAS
+Message=
+
+[TUT_PrepToBlock]
+Title=ENGELLEMEYE HAZIR OL [pc_MM][KP6]
+Message=
+
+[TUT_BlockedTooEarly]
+Title=ERKEN ENGELLEDIN!
+Message=
+
+[HAWK_HawkAttack]
+Title=SAHIN SALDIRISI!!
+Message=
+
+[HAWK_AttackHi]
+Title=SAHIN YUKSEKTEYKEN TEKME AT! [pc_MR][KP8]
+Message=
+
+[HAWK_AttackLo]
+Title=SAHIN ALÇAKTAYKEN YUMRUK AT! [pc_ML][KP4]
+Message=
+
+[HAWK_DefendYourself]
+Title=KENDINI KORU! ENGELLE, ARDINDAN SALDIR!
+Message=

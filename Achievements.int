@@ -1,0 +1,51 @@
+[ACH_ChkPt_Bully]
+Title=Iyice Bi' Su Siçrat
+Message=Köprüdeki haydutu maglup ettin.
+
+[ACH_ChkPt_Garden]
+Title=Saray Bahçesi
+Message=Sarayin bahçesine ulastin.
+
+[ACH_ChkPt_PalaceGates]
+Title=Saray Kapilari
+Message=Sarayin kapilarina ulastin.
+
+[ACH_Hawk_NoDamage]
+Title=Ruffled Feathers
+Message=OLD OLD OLD OLD CUT CUT CUT
+
+[ACH_Pious_AsMonk]
+Title=Dürüst Yol
+Message=Kardes bir kesisin saygisini kazandin
+
+[ACH_Victory_Basic]
+Title=Mariko
+Message=Mariko'yu kötü savas beyi Akuma'dan kurtardin.
+
+[ACH_Victory_Scholar]
+Title=Dürüst Zafer
+Message=Mariko'yu Kesis olarak kurtardin.
+
+[ACH_Victory_TrueLove]
+Title=Ask Her Seyi Fetheder
+Message=Mariko'yu Gerçek Ask olarak kurtardin.
+
+[ACH_Block_ThruStinky]
+Title=Ustalik Yolu
+Message=Büyük Duvar'i bir kere bile vurulmadan geçtin.
+
+[ACH_Block_ToAkuma]
+Title=Karateka'nin Yolu
+Message=Akuma'ya kölelere dokunmadan meydan okudun.
+
+[ACH_NoChi]
+Title=Gereksinim Özgürlügü
+Message=Akuma'yi hiç Mariko çiçegi toplamadan yendin.
+
+[ACH_Speed_ThruStinky]
+Title=Hizli Baslangiç
+Message=Bamboo Ormanina 5 dakikadan az bir sürede ulastin.
+
+[ACH_Speed_ThruAkuma]
+Title=Çabuk Zafer
+Message=Mariko'yu 30 dakikadan az bir sürede kurtardin.
